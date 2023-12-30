@@ -1,3 +1,3 @@
 # Backend
-This is for learning backend
-Contains database mongoose examples for TodoList, HospitalMgmtSytm, Ecommerce. 
+This is for learning backend.
+This contains database mongoose examples for TodoList, HospitalMgmtSytm, Ecommerce. 
